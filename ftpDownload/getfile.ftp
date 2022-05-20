@@ -1,9 +1,0 @@
-open 8.131.236.41
-fengnan
-forecast
-cd  /
-prompt off
-mget *.*
-bye
-quit
-exit
